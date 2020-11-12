@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle:
+subtitle: test
 ---
 
 My name is Mark Sorel
