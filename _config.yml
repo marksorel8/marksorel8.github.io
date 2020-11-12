@@ -16,6 +16,7 @@ author: Mark Sorel
 navbar-links:
   About Me: "aboutme"
   Publications: "publications"
+  CV: "cv/Mark Sorel CV 12112020.pdf"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
